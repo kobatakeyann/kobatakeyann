@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobatakeyann&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kobatakeyann&theme=dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobatakeyann&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kobatakeyann&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kobatakeyann&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kobatakeyann&theme=github&utcOffset=+9)
