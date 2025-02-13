@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobatakeyann&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobatakeyann&theme=dark&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kobatakeyann&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kobatakeyann&theme=dark)
